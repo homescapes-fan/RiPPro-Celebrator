@@ -1,0 +1,2 @@
+# RiPPro-Celebrator
+AtCoderでレートが上がって色変したRiPProメンバーをDiscordで祝うBot
